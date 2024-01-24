@@ -16,7 +16,7 @@ git clone https://github.com/dsabljic/UMZ-Mineseeper.git
 
 ### Kreiranje virtualnog okruženja
 ```bash
-cd UMZ-Mineseeper/minesweeper
+cd UMZ-Mineweeper/minesweeper
 python3 -m venv env
 ```
 
