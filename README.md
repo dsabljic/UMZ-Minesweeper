@@ -1,5 +1,7 @@
 # UMZ-Minesweeper
 
+Rješenje [Minesweeper](https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/) zadatka u Pythonu.
+
 ## Zahtjevi
 - Python 3.10
 - Pip
