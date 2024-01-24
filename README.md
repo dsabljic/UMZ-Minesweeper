@@ -11,7 +11,7 @@ Rješenje [Minesweeper](https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/
 
 ### Kloniranje repozitorija
 ```bash
-git clone https://github.com/dsabljic/UMZ-Mineseeper.git
+git clone https://github.com/dsabljic/UMZ-Minesweeper.git
 ```
 
 ### Kreiranje virtualnog okruženja
